@@ -1,4 +1,4 @@
-package com.vatsal.com.equity.alert.Models;
+package com.vatsal.com.equity.alert.models;
 
 
 import jakarta.persistence.Entity;
